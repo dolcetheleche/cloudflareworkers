@@ -1,6 +1,6 @@
 name = "rssfeed-portfolio"
 main = "src/worker.js"
-compatibility_date = "22025-02-11"
+compatibility_date = "2025-02-11"
 
 #nodejs_compat = true
 

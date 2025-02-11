@@ -7,7 +7,7 @@ const parser = new XMLParser(options);
 
 const ALLOW_LIST = [
 	
-	'https://rss.diffbot.com/atom?url=https://global-focus-482301.framer.app/portfolio',
+	'https://rss.diffbot.com/feeds?url=https%3A%2F%2Fglobal-focus-482301.framer.app%2Fportfolio',
 	
 ]
 

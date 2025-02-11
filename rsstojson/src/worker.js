@@ -6,10 +6,10 @@ const options = {
 const parser = new XMLParser(options);
 
 const ALLOW_LIST = [
-	'https://www.raymondcamden.com/feed_slim.xml',
-	'https://www.raymondcamden.com/feed.xml',
-	'https://recursive.codes/blog/feed',
-	'https://scottstroz.com/feed.xml'
+	
+	
+	'https://global-focus-482301.framer.app/portfolio',
+	
 ]
 
 export default {

@@ -41,7 +41,7 @@ export default {
 				}
 			});
 		}
-		*/
+		/* */
 
 		let req = await fetch(feedURL);
 		let xmlData = await req.text();

@@ -7,6 +7,7 @@ const parser = new XMLParser(options);
 
 const ALLOW_LIST = [
 	
+	'https://www.theverge.com/rss/index.xml',
 	'https://www.theverge.com/rss/index.xml'
 	
 ]

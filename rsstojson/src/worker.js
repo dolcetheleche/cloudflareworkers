@@ -7,8 +7,7 @@ const parser = new XMLParser(options);
 
 const ALLOW_LIST = [
 	
-	'https://www.theverge.com/rss/index.xml',
-	'https://recursive.codes/blog/feed'
+	'https://rss.diffbot.com/atom?url=https://global-focus-482301.framer.app/portfolio',
 	
 ]
 

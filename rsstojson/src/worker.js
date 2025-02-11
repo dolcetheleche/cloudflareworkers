@@ -8,8 +8,7 @@ const parser = new XMLParser(options);
 const ALLOW_LIST = [
 	
 	
-	'https://global-focus-482301.framer.app/portfolio',
-	'https://www.theverge.com/rss/partner/subscriber-only-full-feed/rss.xml'
+	'https://www.theverge.com/rss/index.xml'
 	
 ]
 

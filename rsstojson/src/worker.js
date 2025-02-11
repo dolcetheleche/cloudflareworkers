@@ -7,7 +7,7 @@ const parser = new XMLParser(options);
 
 const ALLOW_LIST = [
 	
-	'https://rss.diffbot.com/rss?url=https://global-focus-482301.framer.app/portfolio',
+	'https://github.com/dolcetheleche/rssfeed/blob/e7985d21a87a38c0829a64dd19b79af903cb53bd/VitoScandolo-UIUX-Designer-Portfolio.xml',
 	
 ]
 

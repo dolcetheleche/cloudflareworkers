@@ -30,7 +30,7 @@ export default {
 		}
 
 		/*
-		Removed 9/11/2024
+		Removed 9/11/2024*/
 		if(ALLOW_LIST.indexOf(feedURL) === -1) {
 			return new Response(JSON.stringify({
 				error:'feed not allowed'

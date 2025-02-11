@@ -1,4 +1,4 @@
-name = "rsstojson"
+name = "rssfeed-portfolio"
 main = "src/worker.js"
 compatibility_date = "2023-08-21"
 

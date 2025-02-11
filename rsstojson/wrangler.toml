@@ -2,7 +2,7 @@ name = "rsstojson"
 main = "src/worker.js"
 compatibility_date = "2023-08-21"
 
-node_compat = true
+nodejs_compat = true
 
 # wrangler.toml (wrangler v3.88.0^)
 [observability.logs]
